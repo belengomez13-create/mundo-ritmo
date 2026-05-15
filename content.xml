@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260514175244INF3VL</value>
+    <value>202605151825485S5O4O</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260514175244MWIORE</value>
+    <value>20260515182548N1YX9L</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778773920638</value>
+    <value>1778830879427</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+  <odePageId>page-mp6lz6sf-dqjey66g0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¡Bienvenidos a nuestra aventura!</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+      <odePageId>page-mp6lz6sf-dqjey66g0</odePageId>
       <odeBlockId>block-1778147524574-43ju2eakx</odeBlockId>
       <blockName>Comenzamos</blockName>
       <iconName>stop</iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+          <odePageId>page-mp6lz6sf-dqjey66g0</odePageId>
           <odeBlockId>block-1778147524574-43ju2eakx</odeBlockId>
           <odeIdeviceId>idevice-1778147524570-u15goriee</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -191,7 +191,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+      <odePageId>page-mp6lz6sf-dqjey66g0</odePageId>
       <odeBlockId>block-1778149366725-f3jsw5d18</odeBlockId>
       <blockName>🧳 ¿Tenéis las maletas preparadas?</blockName>
       <iconName></iconName>
@@ -220,7 +220,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+          <odePageId>page-mp6lz6sf-dqjey66g0</odePageId>
           <odeBlockId>block-1778149366725-f3jsw5d18</odeBlockId>
           <odeIdeviceId>idevice-1778149366722-pki5s8t1c</odeIdeviceId>
           <odeIdeviceTypeName>form</odeIdeviceTypeName>
@@ -289,7 +289,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+  <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -325,7 +325,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
       <odeBlockId>block-1778166525523-0dmeklghz</odeBlockId>
       <blockName>CONCRECIÓN CURRICULAR</blockName>
       <iconName>activity</iconName>
@@ -354,7 +354,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
           <odeBlockId>block-1778166525523-0dmeklghz</odeBlockId>
           <odeIdeviceId>idevice-1778166525521-ol3gprrc6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -397,7 +397,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
       <odeBlockId>block-1778226765599-m4xs82k5w</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -426,7 +426,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
           <odeBlockId>block-1778226765599-m4xs82k5w</odeBlockId>
           <odeIdeviceId>idevice-1778226765595-fvq3gayty</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -469,7 +469,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
       <odeBlockId>block-1778231408703-dk84j6frt</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -498,7 +498,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
           <odeBlockId>block-1778231408703-dk84j6frt</odeBlockId>
           <odeIdeviceId>idevice-1778231408697-zl4bws1nj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -541,7 +541,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
       <odeBlockId>block-1778232139695-hhose3y58</odeBlockId>
       <blockName>GESTIÓN DE INCIDENCIAS TÉCNICAS</blockName>
       <iconName>think</iconName>
@@ -570,7 +570,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odePageId>page-mp6lz6so-rykc2a4w0</odePageId>
           <odeBlockId>block-1778232139695-hhose3y58</odeBlockId>
           <odeIdeviceId>idevice-1778232139693-1kvt2bpqx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -599,7 +599,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4l-g43q0buhq</odePageId>
+  <odePageId>page-mp6lz6sq-eu0z6ik2h</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Nuestros Derecho Digitales</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -635,7 +635,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4l-g43q0buhq</odePageId>
+      <odePageId>page-mp6lz6sq-eu0z6ik2h</odePageId>
       <odeBlockId>block-1777576640380-34b6b68b5</odeBlockId>
       <blockName></blockName>
       <iconName>info</iconName>
@@ -664,7 +664,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4l-g43q0buhq</odePageId>
+          <odePageId>page-mp6lz6sq-eu0z6ik2h</odePageId>
           <odeBlockId>block-1777576640380-34b6b68b5</odeBlockId>
           <odeIdeviceId>idevice-1777576640376-2ehdheg0k</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -694,7 +694,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4m-gabl4plnz</odePageId>
+  <odePageId>page-mp6lz6st-20kh73hc1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>El Reto Final: Embajadores del ritmo</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -730,7 +730,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4m-gabl4plnz</odePageId>
+      <odePageId>page-mp6lz6st-20kh73hc1</odePageId>
       <odeBlockId>block-1778179882416-2uggkyyki</odeBlockId>
       <blockName>¡Preparad vuestras maletas (y vuestras tablets)! En este proyecto vamos a viajar por el planeta para descubrir culturas increíbles.</blockName>
       <iconName>sport</iconName>
@@ -759,7 +759,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4m-gabl4plnz</odePageId>
+          <odePageId>page-mp6lz6st-20kh73hc1</odePageId>
           <odeBlockId>block-1778179882416-2uggkyyki</odeBlockId>
           <odeIdeviceId>idevice-1778179882412-zdwdhfgfh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -797,7 +797,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+  <odePageId>page-mp6lz6sz-oi3qzoiny</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Misión 1: Mi folleto de viaje</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -833,7 +833,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+      <odePageId>page-mp6lz6sz-oi3qzoiny</odePageId>
       <odeBlockId>block-1778178319830-4c79d5tte</odeBlockId>
       <blockName>¡Comienza nuestro viaje! ✈️</blockName>
       <iconName>stop</iconName>
@@ -862,7 +862,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+          <odePageId>page-mp6lz6sz-oi3qzoiny</odePageId>
           <odeBlockId>block-1778178319830-4c79d5tte</odeBlockId>
           <odeIdeviceId>idevice-1778178319821-t18gazrkw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -893,7 +893,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+      <odePageId>page-mp6lz6sz-oi3qzoiny</odePageId>
       <odeBlockId>block-1778600613973-95es99z47</odeBlockId>
       <blockName>Enlaces</blockName>
       <iconName>share</iconName>
@@ -922,7 +922,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+          <odePageId>page-mp6lz6sz-oi3qzoiny</odePageId>
           <odeBlockId>block-1778600613973-95es99z47</odeBlockId>
           <odeIdeviceId>idevice-1778600613972-4sv815ypa</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -982,7 +982,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+  <odePageId>page-mp6lz6t4-mzwv7mo0t</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Misión 2: Presupuesto de viaje</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -1018,7 +1018,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+      <odePageId>page-mp6lz6t4-mzwv7mo0t</odePageId>
       <odeBlockId>block-1778239078058-erc4mv5r4</odeBlockId>
       <blockName>Segunda parada</blockName>
       <iconName>stop</iconName>
@@ -1047,7 +1047,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+          <odePageId>page-mp6lz6t4-mzwv7mo0t</odePageId>
           <odeBlockId>block-1778239078058-erc4mv5r4</odeBlockId>
           <odeIdeviceId>idevice-1778239078051-idd1ma1iu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1078,7 +1078,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+      <odePageId>page-mp6lz6t4-mzwv7mo0t</odePageId>
       <odeBlockId>block-1778603157497-r9vcb3cfn</odeBlockId>
       <blockName>Enlances</blockName>
       <iconName>share</iconName>
@@ -1107,7 +1107,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+          <odePageId>page-mp6lz6t4-mzwv7mo0t</odePageId>
           <odeBlockId>block-1778603157497-r9vcb3cfn</odeBlockId>
           <odeIdeviceId>idevice-1778603157494-bbwn3bpov</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1150,7 +1150,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+  <odePageId>page-mp6lz6t6-d9fe8lujf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Misión 3: Gráficas de nuestros gustos</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -1186,7 +1186,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+      <odePageId>page-mp6lz6t6-d9fe8lujf</odePageId>
       <odeBlockId>block-1778239654058-zy3i57m1z</odeBlockId>
       <blockName>Última parada</blockName>
       <iconName>stop</iconName>
@@ -1215,7 +1215,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+          <odePageId>page-mp6lz6t6-d9fe8lujf</odePageId>
           <odeBlockId>block-1778239654058-zy3i57m1z</odeBlockId>
           <odeIdeviceId>idevice-1778239654055-360dyr9mh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1247,7 +1247,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+      <odePageId>page-mp6lz6t6-d9fe8lujf</odePageId>
       <odeBlockId>block-1778604177248-0omeotpur</odeBlockId>
       <blockName>Enlaces</blockName>
       <iconName>share</iconName>
@@ -1276,7 +1276,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+          <odePageId>page-mp6lz6t6-d9fe8lujf</odePageId>
           <odeBlockId>block-1778604177248-0omeotpur</odeBlockId>
           <odeIdeviceId>idevice-1778604177246-oair29s81</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1337,7 +1337,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4u-15f0shkmv</odePageId>
+  <odePageId>page-mp6lz6t9-6qdok3wy5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿Cómo sabemos si hemos aprendido?</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -1373,7 +1373,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4u-15f0shkmv</odePageId>
+      <odePageId>page-mp6lz6t9-6qdok3wy5</odePageId>
       <odeBlockId>block-1778664175428-fpethgjyb</odeBlockId>
       <blockName>Evaluamos</blockName>
       <iconName>objectives</iconName>
@@ -1402,7 +1402,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4u-15f0shkmv</odePageId>
+          <odePageId>page-mp6lz6t9-6qdok3wy5</odePageId>
           <odeBlockId>block-1778664175428-fpethgjyb</odeBlockId>
           <odeIdeviceId>idevice-1778664175427-1543eyuuj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1431,8 +1431,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4v-5fspey5md</odePageId>
-  <odeParentPageId>page-mp5o2d4u-15f0shkmv</odeParentPageId>
+  <odePageId>page-mp6lz6tf-p64hky283</odePageId>
+  <odeParentPageId>page-mp6lz6t9-6qdok3wy5</odeParentPageId>
   <pageName>Evaluamos: El folleto</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1467,7 +1467,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4v-5fspey5md</odePageId>
+      <odePageId>page-mp6lz6tf-p64hky283</odePageId>
       <odeBlockId>block-1778667619087-byaqw8jbo</odeBlockId>
       <blockName></blockName>
       <iconName>book</iconName>
@@ -1496,7 +1496,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4v-5fspey5md</odePageId>
+          <odePageId>page-mp6lz6tf-p64hky283</odePageId>
           <odeBlockId>block-1778667619087-byaqw8jbo</odeBlockId>
           <odeIdeviceId>idevice-1778667619084-33u9kznz6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1537,8 +1537,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4w-e297ywjgl</odePageId>
-  <odeParentPageId>page-mp5o2d4u-15f0shkmv</odeParentPageId>
+  <odePageId>page-mp6lz6tn-2d93q5291</odePageId>
+  <odeParentPageId>page-mp6lz6t9-6qdok3wy5</odeParentPageId>
   <pageName>Evaluamos: Presupuesto y gráficas</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1573,7 +1573,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4w-e297ywjgl</odePageId>
+      <odePageId>page-mp6lz6tn-2d93q5291</odePageId>
       <odeBlockId>block-1778668246403-19re0fcue</odeBlockId>
       <blockName></blockName>
       <iconName>math</iconName>
@@ -1602,7 +1602,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4w-e297ywjgl</odePageId>
+          <odePageId>page-mp6lz6tn-2d93q5291</odePageId>
           <odeBlockId>block-1778668246403-19re0fcue</odeBlockId>
           <odeIdeviceId>idevice-1778668246401-tnwd9vt55</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1641,8 +1641,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
-  <odeParentPageId>page-mp5o2d4u-15f0shkmv</odeParentPageId>
+  <odePageId>page-mp6lz6to-3rhlwf4kx</odePageId>
+  <odeParentPageId>page-mp6lz6t9-6qdok3wy5</odeParentPageId>
   <pageName>Autoevaluación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1677,7 +1677,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+      <odePageId>page-mp6lz6to-3rhlwf4kx</odePageId>
       <odeBlockId>block-1778669474690-4d3mzq7pp</odeBlockId>
       <blockName>Dianas de autoevaluación</blockName>
       <iconName>objectives</iconName>
@@ -1706,7 +1706,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+          <odePageId>page-mp6lz6to-3rhlwf4kx</odePageId>
           <odeBlockId>block-1778669474690-4d3mzq7pp</odeBlockId>
           <odeIdeviceId>idevice-1778669474688-klqmpdbp5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1744,7 +1744,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+      <odePageId>page-mp6lz6to-3rhlwf4kx</odePageId>
       <odeBlockId>block-1778669679824-m8qe243ah</odeBlockId>
       <blockName>Evaluación de equipo</blockName>
       <iconName>agreement</iconName>
@@ -1773,7 +1773,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+          <odePageId>page-mp6lz6to-3rhlwf4kx</odePageId>
           <odeBlockId>block-1778669679824-m8qe243ah</odeBlockId>
           <odeIdeviceId>idevice-1778669679823-xufc79vv6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1804,7 +1804,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+  <odePageId>page-mp6lz6tq-p9kovrgs1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Caja de herramientas</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -1840,7 +1840,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+      <odePageId>page-mp6lz6tq-p9kovrgs1</odePageId>
       <odeBlockId>block-1778167612560-t1pr31ml9</odeBlockId>
       <blockName>&quot;¡Conviértete en experto/a en Grecia! Explora estos recursos para que tu folleto turístico sea el mejor de la clase.&quot;</blockName>
       <iconName>file</iconName>
@@ -1869,7 +1869,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+          <odePageId>page-mp6lz6tq-p9kovrgs1</odePageId>
           <odeBlockId>block-1778167612560-t1pr31ml9</odeBlockId>
           <odeIdeviceId>idevice-1778167612556-d90l73us9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1899,7 +1899,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+      <odePageId>page-mp6lz6tq-p9kovrgs1</odePageId>
       <odeBlockId>block-1778168957433-sz6i7ymh6</odeBlockId>
       <blockName>Panel de Gestión Docente</blockName>
       <iconName>explore</iconName>
@@ -1928,7 +1928,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+          <odePageId>page-mp6lz6tq-p9kovrgs1</odePageId>
           <odeBlockId>block-1778168957433-sz6i7ymh6</odeBlockId>
           <odeIdeviceId>idevice-1778168957431-muslfml3h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1957,7 +1957,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5o2d50-gcu2sa2r1</odePageId>
+  <odePageId>page-mp6lz6tw-w56octe63</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos y Descarga</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -1993,7 +1993,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5o2d50-gcu2sa2r1</odePageId>
+      <odePageId>page-mp6lz6tw-w56octe63</odePageId>
       <odeBlockId>block-1778770451009-usdwntwme</odeBlockId>
       <blockName>Créditos</blockName>
       <iconName></iconName>
@@ -2022,16 +2022,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5o2d50-gcu2sa2r1</odePageId>
+          <odePageId>page-mp6lz6tw-w56octe63</odePageId>
           <odeBlockId>block-1778770451009-usdwntwme</odeBlockId>
           <odeIdeviceId>idevice-1778770451007-dzylgop3t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?utm_content=DAHJoava-OQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Créditos</a> de Belén Gómez Morales</p>
+<p><a href="https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?utm_content=DAHJoava-OQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Créditos</a> de Belén Gómez Morales</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778770451007-dzylgop3t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?utm_content=DAHJoava-OQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Créditos</a> de Belén Gómez Morales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778770451007-dzylgop3t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?utm_content=DAHJoava-OQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Créditos</a> de Belén Gómez Morales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2046,6 +2046,52 @@
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp6lz6tw-w56octe63</odePageId>
+      <odeBlockId>block-1778845094246-oq1j5vl0k</odeBlockId>
+      <blockName>Descarga</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp6lz6tw-w56octe63</odePageId>
+          <odeBlockId>block-1778845094246-oq1j5vl0k</odeBlockId>
+          <odeIdeviceId>idevice-1778845094244-7rumq5mqo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><a href="https://github.com/belengomez13-create/mundo-ritmo/raw/refs/heads/main/un-mundo-lleno-de-ritmo.elpx" title="">Descargar el fichero.elp</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778845094244-7rumq5mqo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><a href=\"https://github.com/belengomez13-create/mundo-ritmo/raw/refs/heads/main/un-mundo-lleno-de-ritmo.elpx\" title=\"\">Descargar el fichero.elp</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
