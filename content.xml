@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260514175244INF3VL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260514175244MWIORE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Un mundo lleno de ritmo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>viajamos y descubrimos culturas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Belén Gómez Morales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto interdisciplinar integra principalmente las áreas de Lengua Castellana y Matemáticas a través de un centro de interés basado en el medio ambiente y los transportes. El alumnado asume el reto de convertirse en &apos;embajadores del ritmo&apos;, investigando sobre países como Grecia, elaborando productos multimodales como folletos digitales en Canva, y resolviendo problemas matemáticos relacionados con presupuestos de viajes y estadística. El recurso está diseñado bajo los principios del DUA (Diseño Universal para el Aprendizaje), promueve el uso seguro y crítico de herramientas digitales como Padlet y Google Classroom, y garantiza el cumplimiento de la normativa sobre protección de datos personales y derechos digitales.&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778773920638</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡Bienvenidos a nuestra aventura!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Bienvenidos a nuestra aventura!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Bienvenidos a nuestra aventura!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+      <odeBlockId>block-1778147524574-43ju2eakx</odeBlockId>
+      <blockName>Comenzamos</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+          <odeBlockId>block-1778147524574-43ju2eakx</odeBlockId>
+          <odeIdeviceId>idevice-1778147524570-u15goriee</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><span style="color: #169179; background-color: #ecf0f1;">¡Bienvenidos a nuestra aventura!</span></h1>
+<p>"En este viaje nos convertiremos en viajeros responsables sin salir del aula. Exploraremos distintos países, sus culturas y sus formas de moverse por el mundo.</p>
+<p>Aprenderemos a investigar como auténticos exploradores, a contar lo que descubrimos de forma clara y creativa, y a usar las matemáticas para algo muy real: ¡organizar viajes! Compararemos precios, haremos presupuestos y tomaremos decisiones como si estuviéramos preparando una escapada de verdad.</p>
+<p>También utilizaremos herramientas digitales para buscar información, ordenar ideas y crear presentaciones chulas que enseñaremos a los demás.</p>
+<p> Y como broche final... ¡nos iremos de viaje sin movernos del cole! Representaremos danzas del mundo, trabajando en equipo y disfrutando de la diversidad cultural mientras compartimos nuestra experiencia con toda la comunidad educativa.</p>
+<p>¿Preparados para despegar?"</p>
+<p><img src="{{context_path}}/content/resources/ChatGPT Image 7 may 2026, 12_37_22.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778147524570-u15goriee","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><span style=\"color: #169179; background-color: #ecf0f1;\">¡Bienvenidos a nuestra aventura!</span></h1>\n<p>\"En este viaje nos convertiremos en viajeros responsables sin salir del aula. Exploraremos distintos países, sus culturas y sus formas de moverse por el mundo.</p>\n<p>Aprenderemos a investigar como auténticos exploradores, a contar lo que descubrimos de forma clara y creativa, y a usar las matemáticas para algo muy real: ¡organizar viajes! Compararemos precios, haremos presupuestos y tomaremos decisiones como si estuviéramos preparando una escapada de verdad.</p>\n<p>También utilizaremos herramientas digitales para buscar información, ordenar ideas y crear presentaciones chulas que enseñaremos a los demás.</p>\n<p> Y como broche final... ¡nos iremos de viaje sin movernos del cole! Representaremos danzas del mundo, trabajando en equipo y disfrutando de la diversidad cultural mientras compartimos nuestra experiencia con toda la comunidad educativa.</p>\n<p>¿Preparados para despegar?\"</p>\n<p><img src=\"{{context_path}}/content/resources/ChatGPT Image 7 may 2026, 12_37_22.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+      <odeBlockId>block-1778149366725-f3jsw5d18</odeBlockId>
+      <blockName>🧳 ¿Tenéis las maletas preparadas?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4b-bfpxvl531</odePageId>
+          <odeBlockId>block-1778149366725-f3jsw5d18</odeBlockId>
+          <odeIdeviceId>idevice-1778149366722-pki5s8t1c</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778149366722-pki5s8t1c" data-evaluationb="false" data-evaluationid="d8ca31fc-285c-4984-a979-bf47073cc5b5"></div>
+            <div id="frmMainContainer-idevice-1778149366722-pki5s8t1c" class="form-IDevice" data-id="idevice-1778149366722-pki5s8t1c">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1778149366722-pki5s8t1c">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778149366722-pki5s8t1c" style="display:none;">
+                      <button  id="frmStartGame-idevice-1778149366722-pki5s8t1c" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778149366722-pki5s8t1c" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778149366722-pki5s8t1c" > </div>
+                        <div id="frmCover-idevice-1778149366722-pki5s8t1c" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778149366722-pki5s8t1c" class="form-results-container inline">
+                        <div id="form-score-idevice-1778149366722-pki5s8t1c" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1778149366722-pki5s8t1c" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778149366722-pki5s8t1c" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1778149366722-pki5s8t1c" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778149366722-pki5s8t1c" type="button" value="Reiniciar"
+                            data-id="idevice-1778149366722-pki5s8t1c" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1778149366722-pki5s8t1c" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1778149366722-pki5s8t1c" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778149366722-pki5s8t1c" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778149366722-pki5s8t1c","evaluation":false,"evaluationID":"d8ca31fc-285c-4984-a979-bf47073cc5b5","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778149366722-pki5s8t1c","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1778149692789-ISXKU","activityType":"selection","baseText":"<p>¿Tienes ya tu pasaporte de explorador preparado?</p>","feedbackRight":"\"¡Genial! Pues abróchate el cinturón, que empezamos.\"","feedbackWrong":"\"¡No te preocupes! Aquí conseguiremos uno muy especial.\"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"¡Sí! ¡Estoy listo para despegar!"],[false,"\"Todavía no, ¡pero tengo muchas ganas!"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odeBlockId>block-1778166525523-0dmeklghz</odeBlockId>
+      <blockName>CONCRECIÓN CURRICULAR</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odeBlockId>block-1778166525523-0dmeklghz</odeBlockId>
+          <odeIdeviceId>idevice-1778166525521-ol3gprrc6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><span style="background-color: #bfedd2;"><strong>TAREA 1.</strong></span> Elaborar un folleto sobre el país que nos ha tocado. Hablando sobre sus aspectos más relevantes, cómo los monumentos que podemos encontrar, vestimenta, animales, bailes tradicionales, etc.</span></p>
+<table border="1" style="width: 100%; height: 66px;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 33.0759%; height: 33px; text-align: center; background-color: #bfedd2;"><span style="font-family: 'comic sans ms', sans-serif;">CRITERIOS DE EVALUACIÓN</span></td>
+<td style="width: 15.1866%; height: 33px; text-align: center; background-color: #bfedd2;"><span style="font-family: 'comic sans ms', sans-serif;">Nº DE SESIONES</span></td>
+<td style="width: 17.7628%; height: 33px; text-align: center; background-color: #bfedd2;"><span style="font-family: 'comic sans ms', sans-serif;">AGRUPAMIENTO</span></td>
+<td style="width: 33.9747%; height: 33px; text-align: center; background-color: #bfedd2;"><span style="font-family: 'comic sans ms', sans-serif;">HERRAMIENTAS SUGERIDAS</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.0759%; height: 33px;"><span style="font-family: 'comic sans ms', sans-serif;">6.1.b. Localizar, seleccionar y</span><br /><span style="font-family: 'comic sans ms', sans-serif;">contrastar información de</span><br /><span style="font-family: 'comic sans ms', sans-serif;">distintas fuentes, incluidas</span><br /><span style="font-family: 'comic sans ms', sans-serif;">las digitales, citándolas y</span><br /><span style="font-family: 'comic sans ms', sans-serif;">recreándolas mediante la</span><br /><span style="font-family: 'comic sans ms', sans-serif;">adaptación creativa de </span><span style="font-family: 'comic sans ms', sans-serif;">modelos dados.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">5.1.b. Producir textos escritos</span><br /><span style="font-family: 'comic sans ms', sans-serif;">y multimodales sencillos y</span><br /><span style="font-family: 'comic sans ms', sans-serif;">coherentes en distintos </span><span style="font-family: 'comic sans ms', sans-serif;">soportes, desde las </span><span style="font-family: 'comic sans ms', sans-serif;">diferentes etapas del </span><span style="font-family: 'comic sans ms', sans-serif;">proceso evolutivo de la </span><span style="font-family: 'comic sans ms', sans-serif;">escritura, ajustándose a</span><br /><span style="font-family: 'comic sans ms', sans-serif;">modelos dados y </span><span style="font-family: 'comic sans ms', sans-serif;">movilizando, de manera </span><span style="font-family: 'comic sans ms', sans-serif;">acompañada, estrategias </span><span style="font-family: 'comic sans ms', sans-serif;">elementales, individuales o grupales, de planificación, </span><span style="font-family: 'comic sans ms', sans-serif;">textualización y revisión.</span></td>
+<td style="width: 15.1866%; height: 33px; text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;">grupos</span><br /><span style="font-family: 'comic sans ms', sans-serif;">cooperativos</span><br /><span style="font-family: 'comic sans ms', sans-serif;">heterogéneos de</span><br /><span style="font-family: 'comic sans ms', sans-serif;">cuatro alumnos</span></td>
+<td style="width: 17.7628%; height: 33px; text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;">6 sesiones</span></td>
+<td style="width: 33.9747%; height: 33px;"><span style="font-family: 'comic sans ms', sans-serif;">El alumnado utilizará </span><span style="font-family: 'comic sans ms', sans-serif;">como fuente de </span><span style="font-family: 'comic sans ms', sans-serif;">información un <strong>Padlet</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">previamente elaborado, </span><span style="font-family: 'comic sans ms', sans-serif;">donde se recoge </span><span style="font-family: 'comic sans ms', sans-serif;">contenido relevante</span><br /><span style="font-family: 'comic sans ms', sans-serif;">sobre aspectos culturales,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">monumentos, </span><span style="font-family: 'comic sans ms', sans-serif;">vestimenta, y tradiciones.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">El folleto se realizará a </span><span style="font-family: 'comic sans ms', sans-serif;">partir de una plantilla </span><span style="font-family: 'comic sans ms', sans-serif;">proporcionada por el </span><span style="font-family: 'comic sans ms', sans-serif;">docente, primero se</span><br /><span style="font-family: 'comic sans ms', sans-serif;">desarrollará en papel y </span><span style="font-family: 'comic sans ms', sans-serif;">luego lo trasladarán a </span><span style="font-family: 'comic sans ms', sans-serif;">formato digital mediante la herramienta <strong>Canva.</strong></span></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166525521-ol3gprrc6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><span style=\"background-color: #bfedd2;\"><strong>TAREA 1.</strong></span> Elaborar un folleto sobre el país que nos ha tocado. Hablando sobre sus aspectos más relevantes, cómo los monumentos que podemos encontrar, vestimenta, animales, bailes tradicionales, etc.</span></p>\n<table border=\"1\" style=\"width: 100%; height: 66px;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.0759%; height: 33px; text-align: center; background-color: #bfedd2;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">CRITERIOS DE EVALUACIÓN</span></td>\n<td style=\"width: 15.1866%; height: 33px; text-align: center; background-color: #bfedd2;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Nº DE SESIONES</span></td>\n<td style=\"width: 17.7628%; height: 33px; text-align: center; background-color: #bfedd2;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">AGRUPAMIENTO</span></td>\n<td style=\"width: 33.9747%; height: 33px; text-align: center; background-color: #bfedd2;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">HERRAMIENTAS SUGERIDAS</span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.0759%; height: 33px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">6.1.b. Localizar, seleccionar y</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">contrastar información de</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">distintas fuentes, incluidas</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">las digitales, citándolas y</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">recreándolas mediante la</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">adaptación creativa de </span><span style=\"font-family: 'comic sans ms', sans-serif;\">modelos dados.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">5.1.b. Producir textos escritos</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">y multimodales sencillos y</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">coherentes en distintos </span><span style=\"font-family: 'comic sans ms', sans-serif;\">soportes, desde las </span><span style=\"font-family: 'comic sans ms', sans-serif;\">diferentes etapas del </span><span style=\"font-family: 'comic sans ms', sans-serif;\">proceso evolutivo de la </span><span style=\"font-family: 'comic sans ms', sans-serif;\">escritura, ajustándose a</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">modelos dados y </span><span style=\"font-family: 'comic sans ms', sans-serif;\">movilizando, de manera </span><span style=\"font-family: 'comic sans ms', sans-serif;\">acompañada, estrategias </span><span style=\"font-family: 'comic sans ms', sans-serif;\">elementales, individuales o grupales, de planificación, </span><span style=\"font-family: 'comic sans ms', sans-serif;\">textualización y revisión.</span></td>\n<td style=\"width: 15.1866%; height: 33px; text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">grupos</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">cooperativos</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">heterogéneos de</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">cuatro alumnos</span></td>\n<td style=\"width: 17.7628%; height: 33px; text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">6 sesiones</span></td>\n<td style=\"width: 33.9747%; height: 33px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">El alumnado utilizará </span><span style=\"font-family: 'comic sans ms', sans-serif;\">como fuente de </span><span style=\"font-family: 'comic sans ms', sans-serif;\">información un <strong>Padlet</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">previamente elaborado, </span><span style=\"font-family: 'comic sans ms', sans-serif;\">donde se recoge </span><span style=\"font-family: 'comic sans ms', sans-serif;\">contenido relevante</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">sobre aspectos culturales,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">monumentos, </span><span style=\"font-family: 'comic sans ms', sans-serif;\">vestimenta, y tradiciones.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">El folleto se realizará a </span><span style=\"font-family: 'comic sans ms', sans-serif;\">partir de una plantilla </span><span style=\"font-family: 'comic sans ms', sans-serif;\">proporcionada por el </span><span style=\"font-family: 'comic sans ms', sans-serif;\">docente, primero se</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">desarrollará en papel y </span><span style=\"font-family: 'comic sans ms', sans-serif;\">luego lo trasladarán a </span><span style=\"font-family: 'comic sans ms', sans-serif;\">formato digital mediante la herramienta <strong>Canva.</strong></span></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odeBlockId>block-1778226765599-m4xs82k5w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odeBlockId>block-1778226765599-m4xs82k5w</odeBlockId>
+          <odeIdeviceId>idevice-1778226765595-fvq3gayty</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;"><span style="background-color: #fbeeb8;"><strong>TAREA 2.</strong></span> Calcular el coste (monedas y billetes) para realizar el presupuesto de un viaje.</span></p>
+<table border="1" style="width: 100%; height: 90px;">
+<tbody>
+<tr style="height: 57px;">
+<td style="width: 32.5596%; text-align: center; background-color: #fbeeb8; height: 57px;"><span style="font-family: 'comic sans ms', sans-serif;">CRITERIOS DE EVALUACIÓN</span></td>
+<td style="width: 12.3567%; text-align: center; background-color: #fbeeb8; height: 57px;"><span style="font-family: 'comic sans ms', sans-serif;">Nº DE SESIONES</span></td>
+<td style="width: 20.8494%; text-align: center; background-color: #fbeeb8; height: 57px;"><span style="font-family: 'comic sans ms', sans-serif;">AGRUPAMIENTOS</span></td>
+<td style="width: 34.2342%; text-align: center; background-color: #fbeeb8; height: 57px;"><span style="font-family: 'comic sans ms', sans-serif;">HERRAMIENTAS SUGERIDAS</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 32.5596%; background-color: #ffffff; height: 33px; text-align: left;"><span style="font-family: 'comic sans ms', sans-serif;">5.1.b. Reconocer conexiones<br />entre los diferentes elementos matemáticos,<br />aplicando conocimientos y<br />experiencias propias,<br />comenzando a aplicar las<br />matemáticas en su contexto<br />cotidiano.</span></td>
+<td style="width: 12.3567%; text-align: center; background-color: #ffffff; height: 33px;"><span style="font-family: 'comic sans ms', sans-serif;">grupos<br />cooperativos<br />heterogéneos de<br />cuatro alumnos</span></td>
+<td style="width: 20.8494%; text-align: center; background-color: #ffffff; height: 33px;"><span style="font-family: 'comic sans ms', sans-serif;">2 sesiones</span></td>
+<td style="width: 34.2342%; background-color: #ffffff; height: 33px; text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">El alumnado dispondrá de un folleto elaborado por el docente Este material estará disponible en el aula virtual de<br /><strong>Google Classroom.</strong><br />Realizará el cálculo del presupuesto utilizando una plantilla en formato papel.</span></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778226765595-fvq3gayty","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><span style=\"background-color: #fbeeb8;\"><strong>TAREA 2.</strong></span> Calcular el coste (monedas y billetes) para realizar el presupuesto de un viaje.</span></p>\n<table border=\"1\" style=\"width: 100%; height: 90px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 32.5596%; text-align: center; background-color: #fbeeb8; height: 57px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">CRITERIOS DE EVALUACIÓN</span></td>\n<td style=\"width: 12.3567%; text-align: center; background-color: #fbeeb8; height: 57px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Nº DE SESIONES</span></td>\n<td style=\"width: 20.8494%; text-align: center; background-color: #fbeeb8; height: 57px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">AGRUPAMIENTOS</span></td>\n<td style=\"width: 34.2342%; text-align: center; background-color: #fbeeb8; height: 57px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">HERRAMIENTAS SUGERIDAS</span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 32.5596%; background-color: #ffffff; height: 33px; text-align: left;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">5.1.b. Reconocer conexiones<br />entre los diferentes elementos matemáticos,<br />aplicando conocimientos y<br />experiencias propias,<br />comenzando a aplicar las<br />matemáticas en su contexto<br />cotidiano.</span></td>\n<td style=\"width: 12.3567%; text-align: center; background-color: #ffffff; height: 33px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">grupos<br />cooperativos<br />heterogéneos de<br />cuatro alumnos</span></td>\n<td style=\"width: 20.8494%; text-align: center; background-color: #ffffff; height: 33px;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">2 sesiones</span></td>\n<td style=\"width: 34.2342%; background-color: #ffffff; height: 33px; text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">El alumnado dispondrá de un folleto elaborado por el docente Este material estará disponible en el aula virtual de<br /><strong>Google Classroom.</strong><br />Realizará el cálculo del presupuesto utilizando una plantilla en formato papel.</span></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odeBlockId>block-1778231408703-dk84j6frt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odeBlockId>block-1778231408703-dk84j6frt</odeBlockId>
+          <odeIdeviceId>idevice-1778231408697-zl4bws1nj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><span style="background-color: #f8cac6;">TAREA 3.</span> Representar e interpretar gráficas con diferentes preferencias en bailes típicos, países, comidas,...</span></p>
+<table border="1" style="width: 100%; height: 66px;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 31.6602%; height: 33px; text-align: center; background-color: #f8cac6;"><span style="font-family: 'comic sans ms', sans-serif;">CRITERIOS DE EVALUACIÓN</span></td>
+<td style="width: 15.0579%; height: 33px; text-align: center; background-color: #f8cac6;"><span style="font-family: 'comic sans ms', sans-serif;">Nº DE SESIONES</span></td>
+<td style="width: 19.4337%; height: 33px; text-align: center; background-color: #f8cac6;"><span style="font-family: 'comic sans ms', sans-serif;">AGRUPAMIENTO</span></td>
+<td style="width: 33.7194%; height: 33px; text-align: center; background-color: #f8cac6;"><span style="font-family: 'comic sans ms', sans-serif;">HERRAMIENTAS SUGERIDAS</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 31.6602%; height: 33px; text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">6.2.b. Explicar, de forma verbal o gráfica, ideas y procesos matemáticos sencillos, los pasos seguidos en la resolución de un problema o los resultados matemáticos, comenzando a utilizar distintos lenguajes a través de medios </span><span style="font-family: 'comic sans ms', sans-serif;">tradicionales o digitales.</span></td>
+<td style="width: 15.0579%; height: 33px; text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;">grupos</span><br /><span style="font-family: 'comic sans ms', sans-serif;">cooperativos</span><br /><span style="font-family: 'comic sans ms', sans-serif;">heterogéneos de</span><br /><span style="font-family: 'comic sans ms', sans-serif;">cuatro alumnos</span></td>
+<td style="width: 19.4337%; height: 33px; text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;">4 sesiones</span></td>
+<td style="width: 33.7194%; height: 33px; text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">1º Emplearán recursos </span><span style="font-family: 'comic sans ms', sans-serif;">digitales como <strong>Liveworksheets </strong>desde su cuenta de Classroom o saldrán en grupo a la PDI para practicar previamente la </span><span style="font-family: 'comic sans ms', sans-serif;">interpretación de gráficos de forma guiada</span><br /><span style="font-family: 'comic sans ms', sans-serif;">2º Para la recogida de datos se realizarán encuestas orales en el aula, registrando las respuesta en </span><span style="font-family: 'comic sans ms', sans-serif;">una tabla de clase. Como apoyo, el docente podrá utilizar herramientas digitales como Google Forms para organizar</span><br /><span style="font-family: 'comic sans ms', sans-serif;">previamente las preguntas o recoger datos de manera visual</span><br /><span style="font-family: 'comic sans ms', sans-serif;">en gran grupo.”</span><br /><span style="font-family: 'comic sans ms', sans-serif;">3º Realizarán las gráficas en equipo en formato papel.</span></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778231408697-zl4bws1nj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><span style=\"background-color: #f8cac6;\">TAREA 3.</span> Representar e interpretar gráficas con diferentes preferencias en bailes típicos, países, comidas,...</span></p>\n<table border=\"1\" style=\"width: 100%; height: 66px;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 31.6602%; height: 33px; text-align: center; background-color: #f8cac6;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">CRITERIOS DE EVALUACIÓN</span></td>\n<td style=\"width: 15.0579%; height: 33px; text-align: center; background-color: #f8cac6;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Nº DE SESIONES</span></td>\n<td style=\"width: 19.4337%; height: 33px; text-align: center; background-color: #f8cac6;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">AGRUPAMIENTO</span></td>\n<td style=\"width: 33.7194%; height: 33px; text-align: center; background-color: #f8cac6;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">HERRAMIENTAS SUGERIDAS</span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 31.6602%; height: 33px; text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">6.2.b. Explicar, de forma verbal o gráfica, ideas y procesos matemáticos sencillos, los pasos seguidos en la resolución de un problema o los resultados matemáticos, comenzando a utilizar distintos lenguajes a través de medios </span><span style=\"font-family: 'comic sans ms', sans-serif;\">tradicionales o digitales.</span></td>\n<td style=\"width: 15.0579%; height: 33px; text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">grupos</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">cooperativos</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">heterogéneos de</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">cuatro alumnos</span></td>\n<td style=\"width: 19.4337%; height: 33px; text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">4 sesiones</span></td>\n<td style=\"width: 33.7194%; height: 33px; text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">1º Emplearán recursos </span><span style=\"font-family: 'comic sans ms', sans-serif;\">digitales como <strong>Liveworksheets </strong>desde su cuenta de Classroom o saldrán en grupo a la PDI para practicar previamente la </span><span style=\"font-family: 'comic sans ms', sans-serif;\">interpretación de gráficos de forma guiada</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">2º Para la recogida de datos se realizarán encuestas orales en el aula, registrando las respuesta en </span><span style=\"font-family: 'comic sans ms', sans-serif;\">una tabla de clase. Como apoyo, el docente podrá utilizar herramientas digitales como Google Forms para organizar</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">previamente las preguntas o recoger datos de manera visual</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">en gran grupo.”</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">3º Realizarán las gráficas en equipo en formato papel.</span></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+      <odeBlockId>block-1778232139695-hhose3y58</odeBlockId>
+      <blockName>GESTIÓN DE INCIDENCIAS TÉCNICAS</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4i-fl4oafw37</odePageId>
+          <odeBlockId>block-1778232139695-hhose3y58</odeBlockId>
+          <odeIdeviceId>idevice-1778232139693-1kvt2bpqx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Los posibles problemas técnicos que puedan surgir con el uso de la tecnología en el aula se intentarán prevenir y resolver de forma rápida. Para ello, siempre se tendrán preparadas alternativas en papel o actividades manipulativas por si algo falla, de manera que la clase pueda continuar sin problema.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">Antes de usar los recursos digitales, se revisará que todo funcione bien (internet, tablets, acceso a las aplicaciones, etc.).</span><br /><span style="font-family: 'comic sans ms', sans-serif;">En el caso de las tabletas, se organizará su uso por equipos, estableciendo turnos y roles para que todos los alumnos participen de forma ordenada.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">Si surge algún problema durante la sesión, se intentará solucionar de forma sencilla (reiniciar el dispositivo, cambiar de navegador, volver a conectarse...). Y si no se puede resolver en ese momento, se continuará la actividad en papel.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">Además, en algunas sesiones se contará con doble docencia, lo que ayudará a que la clase sea más fluida, a resolver incidencias más rápido y a atender mejor a los alumnos mientras trabajan con la tecnología.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">Por último, hay que destacar que el alumnado ya está familiarizado con el uso de las tecnologías, ya que desde 1º de Primaria trabaja con el aula virtual de Google Classroom, por lo que sabe cómo acceder a los materiales y desenvolverse de manera</span><br /><span style="font-family: 'comic sans ms', sans-serif;">autónoma con estas herramientas.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778232139693-1kvt2bpqx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Los posibles problemas técnicos que puedan surgir con el uso de la tecnología en el aula se intentarán prevenir y resolver de forma rápida. Para ello, siempre se tendrán preparadas alternativas en papel o actividades manipulativas por si algo falla, de manera que la clase pueda continuar sin problema.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Antes de usar los recursos digitales, se revisará que todo funcione bien (internet, tablets, acceso a las aplicaciones, etc.).</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">En el caso de las tabletas, se organizará su uso por equipos, estableciendo turnos y roles para que todos los alumnos participen de forma ordenada.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Si surge algún problema durante la sesión, se intentará solucionar de forma sencilla (reiniciar el dispositivo, cambiar de navegador, volver a conectarse...). Y si no se puede resolver en ese momento, se continuará la actividad en papel.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Además, en algunas sesiones se contará con doble docencia, lo que ayudará a que la clase sea más fluida, a resolver incidencias más rápido y a atender mejor a los alumnos mientras trabajan con la tecnología.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Por último, hay que destacar que el alumnado ya está familiarizado con el uso de las tecnologías, ya que desde 1º de Primaria trabaja con el aula virtual de Google Classroom, por lo que sabe cómo acceder a los materiales y desenvolverse de manera</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">autónoma con estas herramientas.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4l-g43q0buhq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestros Derecho Digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestros Derecho Digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nuestros Derecho Digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4l-g43q0buhq</odePageId>
+      <odeBlockId>block-1777576640380-34b6b68b5</odeBlockId>
+      <blockName></blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4l-g43q0buhq</odePageId>
+          <odeBlockId>block-1777576640380-34b6b68b5</odeBlockId>
+          <odeIdeviceId>idevice-1777576640376-2ehdheg0k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Antes de comenzar con las actividades, es importante que no olvides trabajar la infografía sobre seguridad digital. En ella encontrarás información clave para proteger tus datos personales, navegar de forma segura y reconocer posibles riesgos en internet. Dedica unos minutos a revisarla con atención, ya que te ayudará a comprender mejor cómo actuar de manera responsable en el entorno digital y a aplicar estos conocimientos durante el desarrollo de las tareas.</span></p>
+<p><img src="{{context_path}}/content/resources/INFOGRAFÍA SEGURIDAD DIGITAL PARA 2º PRIMARIA.jpg" width="400" height="1000" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777576640376-2ehdheg0k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Antes de comenzar con las actividades, es importante que no olvides trabajar la infografía sobre seguridad digital. En ella encontrarás información clave para proteger tus datos personales, navegar de forma segura y reconocer posibles riesgos en internet. Dedica unos minutos a revisarla con atención, ya que te ayudará a comprender mejor cómo actuar de manera responsable en el entorno digital y a aplicar estos conocimientos durante el desarrollo de las tareas.</span></p>\n<p><img src=\"{{context_path}}/content/resources/INFOGRAFÍA SEGURIDAD DIGITAL PARA 2º PRIMARIA.jpg\" width=\"400\" height=\"1000\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4m-gabl4plnz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El Reto Final: Embajadores del ritmo</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Reto Final: Embajadores del ritmo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de lo que vamos a conseguir. PRODUCTO FINAL.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El Reto Final: Embajadores del ritmo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4m-gabl4plnz</odePageId>
+      <odeBlockId>block-1778179882416-2uggkyyki</odeBlockId>
+      <blockName>¡Preparad vuestras maletas (y vuestras tablets)! En este proyecto vamos a viajar por el planeta para descubrir culturas increíbles.</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4m-gabl4plnz</odePageId>
+          <odeBlockId>block-1778179882416-2uggkyyki</odeBlockId>
+          <odeIdeviceId>idevice-1778179882412-zdwdhfgfh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"> 🗺️ <strong>¿Cuál es nuestra misión final?</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Por equipos, nos convertiremos en embajadores del ritmo para crear:</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: 'comic sans ms', sans-serif;"><strong>Un Súper Tríptico en Canva</strong>: Con la bandera, danzas y secretos del país que nos ha tocado (¡Grecia nos espera!). </span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;"><strong>Plan de Viaje:</strong> Calcularemos nuestro propio presupuesto para saber cuánto cuesta la aventura. </span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;"><strong>Gráficas de Reporteros</strong>: Investigaremos qué monumentos y bailes nos gustan más a todos. </span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"> </span><br /><span style="font-family: 'comic sans ms', sans-serif;">🎨 <strong>¿Por qué usaremos Canva?</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">¡Porque es como jugar a crear! Es fácil, divertido y lleno de colores. Además, podremos trabajar juntos, poner fotos preciosas y aprender a usar la tecnología de forma responsable. </span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"> </span><br /><span style="font-family: 'comic sans ms', sans-serif;"> 🤝 <strong>Equipo de Apoyo</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">¡No estaréis solos! 🚀</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Guías expertos: Vuestros profes os acompañaremos paso a paso.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">Superfamilas: ¡Papá y mamá también podrán entrar al aula para ayudarnos en esta misión digital!</span><br /><span style="font-family: 'comic sans ms', sans-serif;">¡Recuerda! No hace falta ser un genio de la informática, solo tener ganas de explorar, imaginar y... ¡seguir el ritmo! 🌍💃</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/embajadores.png" width="1000" height="800" alt="Autoría: ChatGPT (OpenAI)" />Autoría: ChatGPT (OpenAI)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179882412-zdwdhfgfh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"> 🗺️ <strong>¿Cuál es nuestra misión final?</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Por equipos, nos convertiremos en embajadores del ritmo para crear:</span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Un Súper Tríptico en Canva</strong>: Con la bandera, danzas y secretos del país que nos ha tocado (¡Grecia nos espera!). </span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Plan de Viaje:</strong> Calcularemos nuestro propio presupuesto para saber cuánto cuesta la aventura. </span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Gráficas de Reporteros</strong>: Investigaremos qué monumentos y bailes nos gustan más a todos. </span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"> </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">🎨 <strong>¿Por qué usaremos Canva?</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Porque es como jugar a crear! Es fácil, divertido y lleno de colores. Además, podremos trabajar juntos, poner fotos preciosas y aprender a usar la tecnología de forma responsable. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"> </span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\"> 🤝 <strong>Equipo de Apoyo</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">¡No estaréis solos! 🚀</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Guías expertos: Vuestros profes os acompañaremos paso a paso.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Superfamilas: ¡Papá y mamá también podrán entrar al aula para ayudarnos en esta misión digital!</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Recuerda! No hace falta ser un genio de la informática, solo tener ganas de explorar, imaginar y... ¡seguir el ritmo! 🌍💃</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/embajadores.png\" width=\"1000\" height=\"800\" alt=\"Autoría: ChatGPT (OpenAI)\" />Autoría: ChatGPT (OpenAI)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Misión 1: Mi folleto de viaje</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misión 1: Mi folleto de viaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Misión 1: Mi folleto de viaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+      <odeBlockId>block-1778178319830-4c79d5tte</odeBlockId>
+      <blockName>¡Comienza nuestro viaje! ✈️</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+          <odeBlockId>block-1778178319830-4c79d5tte</odeBlockId>
+          <odeIdeviceId>idevice-1778178319821-t18gazrkw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">¡Bienvenidos a la primera etapa! En esta misión, nos convertiremos en exploradores. Antes de crear nuestro propio material, necesitamos entender dónde estamos y cómo podemos comunicar nuestras aventuras a los demás. </span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Para completar esta misión con éxito, consulta la siguiente línea del tiempo dividida en pasos clave:</span></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJAPsdmws/Gu-0gM25Q01jbs3isUseMA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778178319821-t18gazrkw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Bienvenidos a la primera etapa! En esta misión, nos convertiremos en exploradores. Antes de crear nuestro propio material, necesitamos entender dónde estamos y cómo podemos comunicar nuestras aventuras a los demás. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Para completar esta misión con éxito, consulta la siguiente línea del tiempo dividida en pasos clave:</span></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJAPsdmws/Gu-0gM25Q01jbs3isUseMA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+      <odeBlockId>block-1778600613973-95es99z47</odeBlockId>
+      <blockName>Enlaces</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4o-9w48ssxnm</odePageId>
+          <odeBlockId>block-1778600613973-95es99z47</odeBlockId>
+          <odeIdeviceId>idevice-1778600613972-4sv815ypa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table border="1" style="width: 100%; height: 162px; border-color: #000000;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 19.8198%; height: 33px; text-align: center;"><strong>SESIÓN 1</strong></td>
+<td style="width: 19.0476%; height: 33px; text-align: center;"><strong>SESIÓN 2 </strong></td>
+<td style="width: 19.305%; height: 33px; text-align: center;"><strong>SESIÓN 3</strong></td>
+<td style="width: 20.0814%; height: 33px; text-align: center;"><strong>SESIÓN 4</strong></td>
+<td style="width: 21.6175%; text-align: center;"><strong>SESIÓN 5</strong></td>
+</tr>
+<tr style="height: 129px;">
+<td style="width: 19.8198%; height: 129px;">
+<p>* <a href="https://www.youtube.com/watch?v=ITpWjCYE3lE&t=73s" title="">Video continentes</a></p>
+<p>* <a href="https://drive.google.com/file/d/1-H8pheTOvgp9nhQCzEFUZWu1iaVrz3VZ/view?usp=sharing" title="">Ficha lectura</a></p>
+<p>* <a href="https://drive.google.com/file/d/1lEDQalcT65sSOeJIXpQ2TTlbSyV0AgEp/view?usp=sharing" title="">Mapa por equipos</a></p>
+</td>
+<td style="width: 19.0476%; height: 129px;">* <a href="https://padlet.com/belengomez15/un-mundo-lleno-de-ritmo-n9goypnu73jsyktp" title="">Padlet</a></td>
+<td style="width: 19.305%; height: 129px;">
+<p>* <a href="https://www.youtube.com/watch?v=GLn5AZ39hKg&t=15s" title="">Video El folleto</a></p>
+<p>*<a href="https://drive.google.com/file/d/1q_HsOIcFsYfjtKSbfRSzyHyOi1cWoWZ6/view?usp=sharing" title=""> Ficha Partes del folleto</a></p>
+</td>
+<td style="width: 20.0814%; height: 129px;">
+<p>* <a href="https://drive.google.com/file/d/1UFHtysjWSmzklyYNhXU1fQ9MEUGuZN-1/view?usp=sharing" title="">Ficha folleto en blanco</a></p>
+<p>* <a href="https://drive.google.com/file/d/1ZnYgRXZDFxe-AvpmhcTGfshqQcfgecIp/view?usp=sharing" title="">Ficha folleto con imágenes</a></p>
+</td>
+<td style="width: 21.6175%;">
+<p>* <a href="https://canva.link/zrkq6alblg13imk" title="">Enlace Canva para editar folleto en blanco</a></p>
+<p>* <a href="https://canva.link/7739ad73y3sxbbe" title="">Enlace a Canva folleto con imágenes</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778600613972-4sv815ypa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 162px; border-color: #000000;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.8198%; height: 33px; text-align: center;\"><strong>SESIÓN 1</strong></td>\n<td style=\"width: 19.0476%; height: 33px; text-align: center;\"><strong>SESIÓN 2 </strong></td>\n<td style=\"width: 19.305%; height: 33px; text-align: center;\"><strong>SESIÓN 3</strong></td>\n<td style=\"width: 20.0814%; height: 33px; text-align: center;\"><strong>SESIÓN 4</strong></td>\n<td style=\"width: 21.6175%; text-align: center;\"><strong>SESIÓN 5</strong></td>\n</tr>\n<tr style=\"height: 129px;\">\n<td style=\"width: 19.8198%; height: 129px;\">\n<p>* <a href=\"https://www.youtube.com/watch?v=ITpWjCYE3lE&t=73s\" title=\"\">Video continentes</a></p>\n<p>* <a href=\"https://drive.google.com/file/d/1-H8pheTOvgp9nhQCzEFUZWu1iaVrz3VZ/view?usp=sharing\" title=\"\">Ficha lectura</a></p>\n<p>* <a href=\"https://drive.google.com/file/d/1lEDQalcT65sSOeJIXpQ2TTlbSyV0AgEp/view?usp=sharing\" title=\"\">Mapa por equipos</a></p>\n</td>\n<td style=\"width: 19.0476%; height: 129px;\">* <a href=\"https://padlet.com/belengomez15/un-mundo-lleno-de-ritmo-n9goypnu73jsyktp\" title=\"\">Padlet</a></td>\n<td style=\"width: 19.305%; height: 129px;\">\n<p>* <a href=\"https://www.youtube.com/watch?v=GLn5AZ39hKg&t=15s\" title=\"\">Video El folleto</a></p>\n<p>*<a href=\"https://drive.google.com/file/d/1q_HsOIcFsYfjtKSbfRSzyHyOi1cWoWZ6/view?usp=sharing\" title=\"\"> Ficha Partes del folleto</a></p>\n</td>\n<td style=\"width: 20.0814%; height: 129px;\">\n<p>* <a href=\"https://drive.google.com/file/d/1UFHtysjWSmzklyYNhXU1fQ9MEUGuZN-1/view?usp=sharing\" title=\"\">Ficha folleto en blanco</a></p>\n<p>* <a href=\"https://drive.google.com/file/d/1ZnYgRXZDFxe-AvpmhcTGfshqQcfgecIp/view?usp=sharing\" title=\"\">Ficha folleto con imágenes</a></p>\n</td>\n<td style=\"width: 21.6175%;\">\n<p>* <a href=\"https://canva.link/zrkq6alblg13imk\" title=\"\">Enlace Canva para editar folleto en blanco</a></p>\n<p>* <a href=\"https://canva.link/7739ad73y3sxbbe\" title=\"\">Enlace a Canva folleto con imágenes</a></p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Misión 2: Presupuesto de viaje</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misión 2: Presupuesto de viaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Misión 2: Presupuesto de viaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+      <odeBlockId>block-1778239078058-erc4mv5r4</odeBlockId>
+      <blockName>Segunda parada</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+          <odeBlockId>block-1778239078058-erc4mv5r4</odeBlockId>
+          <odeIdeviceId>idevice-1778239078051-idd1ma1iu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"¡Increíble trabajo en la primera etapa, equipo! Ya conocemos los secretos de nuestro destino, pero ahora llega un reto muy importante: ¿cómo vamos a pagar nuestro viaje? En esta segunda misión, nos convertiremos en gestores de viajes. Tendremos que aprender a manejar nuestro presupuesto, decidir qué gastos son necesarios y calcular cuántas monedas y billetes necesitaremos para que nuestra aventura sea un éxito. ¡Todo gran explorador necesita un buen plan!</p>
+<p>Para organizar nuestras finanzas sin errores, seguid con atención los pasos de esta nueva línea del tiempo:"</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJAMfNmOM/Q1vT_jpxmzEG3bxAijhl8A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778239078051-idd1ma1iu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"¡Increíble trabajo en la primera etapa, equipo! Ya conocemos los secretos de nuestro destino, pero ahora llega un reto muy importante: ¿cómo vamos a pagar nuestro viaje? En esta segunda misión, nos convertiremos en gestores de viajes. Tendremos que aprender a manejar nuestro presupuesto, decidir qué gastos son necesarios y calcular cuántas monedas y billetes necesitaremos para que nuestra aventura sea un éxito. ¡Todo gran explorador necesita un buen plan!</p>\n<p>Para organizar nuestras finanzas sin errores, seguid con atención los pasos de esta nueva línea del tiempo:\"</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJAMfNmOM/Q1vT_jpxmzEG3bxAijhl8A/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+      <odeBlockId>block-1778603157497-r9vcb3cfn</odeBlockId>
+      <blockName>Enlances</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4r-nxn1fdj6i</odePageId>
+          <odeBlockId>block-1778603157497-r9vcb3cfn</odeBlockId>
+          <odeIdeviceId>idevice-1778603157494-bbwn3bpov</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; border-color: #000000;">
+<tbody>
+<tr>
+<td style="width: 49.9357%; text-align: center;"><strong>SESIÓN 1</strong></td>
+<td style="width: 49.9357%; text-align: center;"><strong>SESIÓN 2</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9357%;">
+<p>* <a href="https://www.youtube.com/watch?v=W14ITBdgKx4" title="">Vídeo ¿Qué es un presupuesto?</a></p>
+<p>* <a href="https://drive.google.com/file/d/1mnaMmfF9eFZ6RfG6Im_rVYls9QjR7oDr/view?usp=sharing" title="">Ficha por equipos ¿Qué necesitamos para un viaje?</a></p>
+</td>
+<td style="width: 49.9357%;">* <a href="https://drive.google.com/file/d/1eZxOq9Pc6Hq39FKSd5kKViExMoPwCL55/view?usp=sharing" title="">Ficha precios y presupuesto</a></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778603157494-bbwn3bpov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; border-color: #000000;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9357%; text-align: center;\"><strong>SESIÓN 1</strong></td>\n<td style=\"width: 49.9357%; text-align: center;\"><strong>SESIÓN 2</strong></td>\n</tr>\n<tr>\n<td style=\"width: 49.9357%;\">\n<p>* <a href=\"https://www.youtube.com/watch?v=W14ITBdgKx4\" title=\"\">Vídeo ¿Qué es un presupuesto?</a></p>\n<p>* <a href=\"https://drive.google.com/file/d/1mnaMmfF9eFZ6RfG6Im_rVYls9QjR7oDr/view?usp=sharing\" title=\"\">Ficha por equipos ¿Qué necesitamos para un viaje?</a></p>\n</td>\n<td style=\"width: 49.9357%;\">* <a href=\"https://drive.google.com/file/d/1eZxOq9Pc6Hq39FKSd5kKViExMoPwCL55/view?usp=sharing\" title=\"\">Ficha precios y presupuesto</a></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Misión 3: Gráficas de nuestros gustos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misión 3: Gráficas de nuestros gustos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Misión 3: Gráficas de nuestros gustos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+      <odeBlockId>block-1778239654058-zy3i57m1z</odeBlockId>
+      <blockName>Última parada</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+          <odeBlockId>block-1778239654058-zy3i57m1z</odeBlockId>
+          <odeIdeviceId>idevice-1778239654055-360dyr9mh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;">"¡Ya somos unos expertos en cultura y finanzas! Pero nuestra aventura no termina aquí. Ahora toca una parte fundamental de todo gran viaje: ¡escuchar a los demás! En esta tercera misión, nos convertiremos en reporteros de datos. Saldremos al patio para investigar los gustos de nuestros compañeros sobre medios de transporte, comidas del mundo y monumentos favoritos. Después, aprenderemos a organizar toda esa información en gráficas para entender qué es lo que más nos apasiona de viajar.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">¡Preparad vuestras tablas de recogida y vuestros lápices, que la investigación de campo comienza ya! </span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJADXbIAM/gqnCAIPheQRUzwxbFiZIDw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.canva.com/design/DAHJADXbIAM/gqnCAIPheQRUzwxbFiZIDw/view?utm_content=DAHJADXbIAM&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">TAREA 3</a> de Belén Gómez Morales</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778239654055-360dyr9mh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">\"¡Ya somos unos expertos en cultura y finanzas! Pero nuestra aventura no termina aquí. Ahora toca una parte fundamental de todo gran viaje: ¡escuchar a los demás! En esta tercera misión, nos convertiremos en reporteros de datos. Saldremos al patio para investigar los gustos de nuestros compañeros sobre medios de transporte, comidas del mundo y monumentos favoritos. Después, aprenderemos a organizar toda esa información en gráficas para entender qué es lo que más nos apasiona de viajar.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Preparad vuestras tablas de recogida y vuestros lápices, que la investigación de campo comienza ya! </span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJADXbIAM/gqnCAIPheQRUzwxbFiZIDw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://www.canva.com/design/DAHJADXbIAM/gqnCAIPheQRUzwxbFiZIDw/view?utm_content=DAHJADXbIAM&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">TAREA 3</a> de Belén Gómez Morales</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+      <odeBlockId>block-1778604177248-0omeotpur</odeBlockId>
+      <blockName>Enlaces</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4t-xzkwfnqkg</odePageId>
+          <odeBlockId>block-1778604177248-0omeotpur</odeBlockId>
+          <odeIdeviceId>idevice-1778604177246-oair29s81</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 24.9679%; text-align: center;"><strong>SESIÓN 1</strong></td>
+<td style="width: 24.9679%; text-align: center;"><strong>SESIÓN 2</strong></td>
+<td style="width: 24.9679%; text-align: center;"><strong>SESIÓN 3</strong></td>
+<td style="width: 24.9679%; text-align: center;"><strong>SESIÓN 4</strong></td>
+</tr>
+<tr>
+<td style="width: 24.9679%;">
+<p>* <a href="https://www.youtube.com/watch?v=MuV0ZX9oVeE" title="">Video: ¿Qué son las gráficas de barras?</a></p>
+<p><br /></p>
+</td>
+<td style="width: 24.9679%;">
+<p>* Actividades interactivas</p>
+<ul>
+<li><a href="https://www.liveworksheets.com/worksheet/es/matematicas/157762" title="">Actividad 1</a></li>
+<li><a href="https://www.liveworksheets.com/worksheet/es/matematicas/117863" title="">Actividad 2</a></li>
+<li title=""><a href="https://wordwall.net/es/resource/20499283/grafico-de-barra">Actividad 3</a><br /></li>
+<li><a href="https://wordwall.net/es/resource/24444437/gr%C3%A1fico-de-barras-simple" title="">Actividad 4</a></li>
+</ul>
+<p>* Fichas imprimibles</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1haI3ptop7bCyfAnomGdhYAvlErk0J-kL/view?usp=sharing" title="">Ficha 1</a></li>
+<li><a href="https://drive.google.com/file/d/1krMUp6f_VcNgqGwymAV_VesGQX3474LK/view?usp=sharing" title="">Ficha 2</a></li>
+<li><a href="https://drive.google.com/file/d/1lvkuUjc3VkH19vEXzR-VWxnG9Rc7Yed1/view?usp=sharing" title="">Ficha 3</a></li>
+</ul>
+</td>
+<td style="width: 24.9679%;">* <a href="https://drive.google.com/file/d/1a1sQBh42xATzCcQ0KnRzdSfue_U-9lQZ/view?usp=sharing" title="">Ficha tablas recogida de datos</a></td>
+<td style="width: 24.9679%;">* <a href="https://drive.google.com/file/d/1MpbnFfi6l_Lpg4Cw2wzXrm5ODJl7ZU-f/view?usp=sharing" title="">Fichas gráficas</a></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778604177246-oair29s81","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9679%; text-align: center;\"><strong>SESIÓN 1</strong></td>\n<td style=\"width: 24.9679%; text-align: center;\"><strong>SESIÓN 2</strong></td>\n<td style=\"width: 24.9679%; text-align: center;\"><strong>SESIÓN 3</strong></td>\n<td style=\"width: 24.9679%; text-align: center;\"><strong>SESIÓN 4</strong></td>\n</tr>\n<tr>\n<td style=\"width: 24.9679%;\">\n<p>* <a href=\"https://www.youtube.com/watch?v=MuV0ZX9oVeE\" title=\"\">Video: ¿Qué son las gráficas de barras?</a></p>\n<p><br /></p>\n</td>\n<td style=\"width: 24.9679%;\">\n<p>* Actividades interactivas</p>\n<ul>\n<li><a href=\"https://www.liveworksheets.com/worksheet/es/matematicas/157762\" title=\"\">Actividad 1</a></li>\n<li><a href=\"https://www.liveworksheets.com/worksheet/es/matematicas/117863\" title=\"\">Actividad 2</a></li>\n<li title=\"\"><a href=\"https://wordwall.net/es/resource/20499283/grafico-de-barra\">Actividad 3</a><br /></li>\n<li><a href=\"https://wordwall.net/es/resource/24444437/gr%C3%A1fico-de-barras-simple\" title=\"\">Actividad 4</a></li>\n</ul>\n<p>* Fichas imprimibles</p>\n<ul>\n<li><a href=\"https://drive.google.com/file/d/1haI3ptop7bCyfAnomGdhYAvlErk0J-kL/view?usp=sharing\" title=\"\">Ficha 1</a></li>\n<li><a href=\"https://drive.google.com/file/d/1krMUp6f_VcNgqGwymAV_VesGQX3474LK/view?usp=sharing\" title=\"\">Ficha 2</a></li>\n<li><a href=\"https://drive.google.com/file/d/1lvkuUjc3VkH19vEXzR-VWxnG9Rc7Yed1/view?usp=sharing\" title=\"\">Ficha 3</a></li>\n</ul>\n</td>\n<td style=\"width: 24.9679%;\">* <a href=\"https://drive.google.com/file/d/1a1sQBh42xATzCcQ0KnRzdSfue_U-9lQZ/view?usp=sharing\" title=\"\">Ficha tablas recogida de datos</a></td>\n<td style=\"width: 24.9679%;\">* <a href=\"https://drive.google.com/file/d/1MpbnFfi6l_Lpg4Cw2wzXrm5ODJl7ZU-f/view?usp=sharing\" title=\"\">Fichas gráficas</a></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4u-15f0shkmv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo sabemos si hemos aprendido?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo sabemos si hemos aprendido?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo sabemos si hemos aprendido?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4u-15f0shkmv</odePageId>
+      <odeBlockId>block-1778664175428-fpethgjyb</odeBlockId>
+      <blockName>Evaluamos</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4u-15f0shkmv</odePageId>
+          <odeBlockId>block-1778664175428-fpethgjyb</odeBlockId>
+          <odeIdeviceId>idevice-1778664175427-1543eyuuj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este carpeta detalla los instrumentos de evaluación para las tres tareas principales de la unidad, vinculando a los criterios de evaluación curriculares y estableciendo protocolos para variables en el aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778664175427-1543eyuuj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este carpeta detalla los instrumentos de evaluación para las tres tareas principales de la unidad, vinculando a los criterios de evaluación curriculares y estableciendo protocolos para variables en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4v-5fspey5md</odePageId>
+  <odeParentPageId>page-mp5o2d4u-15f0shkmv</odeParentPageId>
+  <pageName>Evaluamos: El folleto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluamos: El folleto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluamos: El folleto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4v-5fspey5md</odePageId>
+      <odeBlockId>block-1778667619087-byaqw8jbo</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4v-5fspey5md</odePageId>
+          <odeBlockId>block-1778667619087-byaqw8jbo</odeBlockId>
+          <odeIdeviceId>idevice-1778667619084-33u9kznz6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este instrumento se utilizará durante las 6 sesiones de la Tarea 1 para evaluar el proceso de investigación y creación digital.</p>
+<p> ● <strong>Criterios Evaluados</strong>:</p>
+<p>○ 6.1.b: Localizar y seleccionar información del Padlet adaptándola creativamente.</p>
+<p>○ 5.1.b: Producir textos sencillos en papel y digital (Canva) ajustándose al modelo.</p>
+<p> ● <strong>Momentos de recogida de datos:</strong></p>
+<p> ○ Sesión 4 (revisión del borrador en papel).</p>
+<p>○ Sesión 6 (producto final en Canva).</p>
+<p> ●<strong> Variables y solución</strong>: Si surgen problemas de conexión o con las tablets, se utilizará la versión en papel ya trabajada en la sesión 4 para que el aprendizaje no se detenga.</p>
+<p>Se aprovechará la doble docencia para asistir a los equipos con más dificultades técnicas.</p>
+<p></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJigzAsj4/KmZPX0IpsdA_nPmdsOUMZw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHJigzAsj4/KmZPX0IpsdA_nPmdsOUMZw/view?utm_content=DAHJigzAsj4&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Rúbrica: El folleto</a> de Belén Gómez Morales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778667619084-33u9kznz6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este instrumento se utilizará durante las 6 sesiones de la Tarea 1 para evaluar el proceso de investigación y creación digital.</p>\n<p> ● <strong>Criterios Evaluados</strong>:</p>\n<p>○ 6.1.b: Localizar y seleccionar información del Padlet adaptándola creativamente.</p>\n<p>○ 5.1.b: Producir textos sencillos en papel y digital (Canva) ajustándose al modelo.</p>\n<p> ● <strong>Momentos de recogida de datos:</strong></p>\n<p> ○ Sesión 4 (revisión del borrador en papel).</p>\n<p>○ Sesión 6 (producto final en Canva).</p>\n<p> ●<strong> Variables y solución</strong>: Si surgen problemas de conexión o con las tablets, se utilizará la versión en papel ya trabajada en la sesión 4 para que el aprendizaje no se detenga.</p>\n<p>Se aprovechará la doble docencia para asistir a los equipos con más dificultades técnicas.</p>\n<p></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJigzAsj4/KmZPX0IpsdA_nPmdsOUMZw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJigzAsj4/KmZPX0IpsdA_nPmdsOUMZw/view?utm_content=DAHJigzAsj4&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Rúbrica: El folleto</a> de Belén Gómez Morales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4w-e297ywjgl</odePageId>
+  <odeParentPageId>page-mp5o2d4u-15f0shkmv</odeParentPageId>
+  <pageName>Evaluamos: Presupuesto y gráficas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluamos: Presupuesto y gráficas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluamos: Presupuesto y gráficas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4w-e297ywjgl</odePageId>
+      <odeBlockId>block-1778668246403-19re0fcue</odeBlockId>
+      <blockName></blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4w-e297ywjgl</odePageId>
+          <odeBlockId>block-1778668246403-19re0fcue</odeBlockId>
+          <odeIdeviceId>idevice-1778668246401-tnwd9vt55</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este instrumento permite evaluar la aplicación de las matemáticas en contextos reales y la comunicación de resultados.</p>
+<p>● <strong>Criterios Evaluados:</strong></p>
+<p> ○ 5.1.b (Mat): Aplicar conocimientos de monedas y billetes al contexto cotidiano (presupuesto de viaje).</p>
+<p>○ 6.2.b (Mat): Explicar de forma gráfica o verbal el proceso de resolución y los resultados (gráficas de barras).</p>
+<p> ● <strong>¿Qué evaluamos y para qué?</strong></p>
+<p> ○ En el Presupuesto (Tarea 2): Evaluamos si saben manejar el valor de monedas y billetes. Estos datos nos sirven para ver si el alumnado necesita más práctica manipulativa antes de temas de mayor complejidad aritmética.</p>
+<p>○ En las Gráficas (Tarea 3): Evaluamos la interpretación de datos recogidos en el patio. Si detectamos errores en la recogida (encuestas), intervendremos reforzando la organización grupal.</p>
+<p> ● <strong>Variables:</strong> Ante fallos de la PDI en la Sesión 2 de gráficas, se trabajará directamente con el libro de texto o fichas manipulativas preparadas de antemano.</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJitXlHtU/2_JQMxi-AVnrZKW9D_TUDw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHJitXlHtU/2_JQMxi-AVnrZKW9D_TUDw/view?utm_content=DAHJitXlHtU&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Registro de observación</a> de Belén Gómez Morales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778668246401-tnwd9vt55","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este instrumento permite evaluar la aplicación de las matemáticas en contextos reales y la comunicación de resultados.</p>\n<p>● <strong>Criterios Evaluados:</strong></p>\n<p> ○ 5.1.b (Mat): Aplicar conocimientos de monedas y billetes al contexto cotidiano (presupuesto de viaje).</p>\n<p>○ 6.2.b (Mat): Explicar de forma gráfica o verbal el proceso de resolución y los resultados (gráficas de barras).</p>\n<p> ● <strong>¿Qué evaluamos y para qué?</strong></p>\n<p> ○ En el Presupuesto (Tarea 2): Evaluamos si saben manejar el valor de monedas y billetes. Estos datos nos sirven para ver si el alumnado necesita más práctica manipulativa antes de temas de mayor complejidad aritmética.</p>\n<p>○ En las Gráficas (Tarea 3): Evaluamos la interpretación de datos recogidos en el patio. Si detectamos errores en la recogida (encuestas), intervendremos reforzando la organización grupal.</p>\n<p> ● <strong>Variables:</strong> Ante fallos de la PDI en la Sesión 2 de gráficas, se trabajará directamente con el libro de texto o fichas manipulativas preparadas de antemano.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJitXlHtU/2_JQMxi-AVnrZKW9D_TUDw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJitXlHtU/2_JQMxi-AVnrZKW9D_TUDw/view?utm_content=DAHJitXlHtU&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Registro de observación</a> de Belén Gómez Morales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+  <odeParentPageId>page-mp5o2d4u-15f0shkmv</odeParentPageId>
+  <pageName>Autoevaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+      <odeBlockId>block-1778669474690-4d3mzq7pp</odeBlockId>
+      <blockName>Dianas de autoevaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+          <odeBlockId>block-1778669474690-4d3mzq7pp</odeBlockId>
+          <odeIdeviceId>idevice-1778669474688-klqmpdbp5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué evaluamos y en qué momento? </strong><br /> </p>
+<p>Utilizaremos la diana de autoevaluación al finalizar la Sesión 6 (Tarea 1: Folleto) y tras la Sesión 4 (Tarea 3: Gráficas).</p>
+<ul>
+<li> A nivel individual: Evaluamos la percepción del alumno sobre su propio respeto hacia los demás, el cumplimiento de su rol cooperativo y la disposición para prestar ayuda.</li>
+<li>A nivel de equipo: Evaluamos la gestión del tiempo, la participación con ideas y la calidad de la convivencia. </li>
+</ul>
+<p><strong>¿Cómo obtenemos y analizamos los datos?</strong></p>
+<p><strong> </strong>La obtención de datos es directa y visual. Los alumnos colorean los niveles (del 1 al 4).<br /> </p>
+<p style="text-align: justify;">- Recogida: Tras completar la diana, realizaré un breve círculo de diálogo en el aula donde cad equipo compartirá su nivel de "concordancia" (si todos se ven igual o hay diferencias).<br />-  Análisis: Compararé los resultados de sus dianas con mi Registro de Observación. Si un equipo se evalúa con un 4 en "Terminamos a tiempo" pero en mi registro consta que no entregaron el folleto en Canva, detectaré una falta de realismo o comprensión de la tarea.</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJilo8EcU/I0xE4XGSiQhQjlpS7n_EMw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p style="text-align: justify;"><a href="https://www.canva.com/design/DAHJilo8EcU/I0xE4XGSiQhQjlpS7n_EMw/view?utm_content=DAHJilo8EcU&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Dianas de autoevaluación</a> de Belén Gómez Morales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778669474688-klqmpdbp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué evaluamos y en qué momento? </strong><br /> </p>\n<p>Utilizaremos la diana de autoevaluación al finalizar la Sesión 6 (Tarea 1: Folleto) y tras la Sesión 4 (Tarea 3: Gráficas).</p>\n<ul>\n<li> A nivel individual: Evaluamos la percepción del alumno sobre su propio respeto hacia los demás, el cumplimiento de su rol cooperativo y la disposición para prestar ayuda.</li>\n<li>A nivel de equipo: Evaluamos la gestión del tiempo, la participación con ideas y la calidad de la convivencia. </li>\n</ul>\n<p><strong>¿Cómo obtenemos y analizamos los datos?</strong></p>\n<p><strong> </strong>La obtención de datos es directa y visual. Los alumnos colorean los niveles (del 1 al 4).<br /> </p>\n<p style=\"text-align: justify;\">- Recogida: Tras completar la diana, realizaré un breve círculo de diálogo en el aula donde cad equipo compartirá su nivel de \"concordancia\" (si todos se ven igual o hay diferencias).<br />-  Análisis: Compararé los resultados de sus dianas con mi Registro de Observación. Si un equipo se evalúa con un 4 en \"Terminamos a tiempo\" pero en mi registro consta que no entregaron el folleto en Canva, detectaré una falta de realismo o comprensión de la tarea.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJilo8EcU/I0xE4XGSiQhQjlpS7n_EMw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p style=\"text-align: justify;\"><a href=\"https://www.canva.com/design/DAHJilo8EcU/I0xE4XGSiQhQjlpS7n_EMw/view?utm_content=DAHJilo8EcU&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Dianas de autoevaluación</a> de Belén Gómez Morales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+      <odeBlockId>block-1778669679824-m8qe243ah</odeBlockId>
+      <blockName>Evaluación de equipo</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4x-gk0x9rbn5</odePageId>
+          <odeBlockId>block-1778669679824-m8qe243ah</odeBlockId>
+          <odeIdeviceId>idevice-1778669679823-xufc79vv6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJin3S5WM/AiKxtNRrAniyUM7c4m0MYw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHJin3S5WM/AiKxtNRrAniyUM7c4m0MYw/view?utm_content=DAHJin3S5WM&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Evaluación de equipo</a> de Belén Gómez Morales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778669679823-xufc79vv6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJin3S5WM/AiKxtNRrAniyUM7c4m0MYw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJin3S5WM/AiKxtNRrAniyUM7c4m0MYw/view?utm_content=DAHJin3S5WM&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Evaluación de equipo</a> de Belén Gómez Morales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Caja de herramientas</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caja de herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Caja de herramientas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+      <odeBlockId>block-1778167612560-t1pr31ml9</odeBlockId>
+      <blockName>&quot;¡Conviértete en experto/a en Grecia! Explora estos recursos para que tu folleto turístico sea el mejor de la clase.&quot;</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+          <odeBlockId>block-1778167612560-t1pr31ml9</odeBlockId>
+          <odeIdeviceId>idevice-1778167612556-d90l73us9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/n9goypnu73jsyktp" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778167612556-d90l73us9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/n9goypnu73jsyktp\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+      <odeBlockId>block-1778168957433-sz6i7ymh6</odeBlockId>
+      <blockName>Panel de Gestión Docente</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d4z-kpa8vob04</odePageId>
+          <odeBlockId>block-1778168957433-sz6i7ymh6</odeBlockId>
+          <odeIdeviceId>idevice-1778168957431-muslfml3h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/mix/belen-gomez-morales" title=""><img src="{{context_path}}/content/resources/Symbaloo.png" width="310" height="163" alt="logo symbaloo" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778168957431-muslfml3h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/mix/belen-gomez-morales\" title=\"\"><img src=\"{{context_path}}/content/resources/Symbaloo.png\" width=\"310\" height=\"163\" alt=\"logo symbaloo\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5o2d50-gcu2sa2r1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y Descarga</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y Descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos y Descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5o2d50-gcu2sa2r1</odePageId>
+      <odeBlockId>block-1778770451009-usdwntwme</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5o2d50-gcu2sa2r1</odePageId>
+          <odeBlockId>block-1778770451009-usdwntwme</odeBlockId>
+          <odeIdeviceId>idevice-1778770451007-dzylgop3t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?utm_content=DAHJoava-OQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Créditos</a> de Belén Gómez Morales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778770451007-dzylgop3t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJoava-OQ/o1UbOBl_lOcENeHaPVXV9g/view?utm_content=DAHJoava-OQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Créditos</a> de Belén Gómez Morales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
